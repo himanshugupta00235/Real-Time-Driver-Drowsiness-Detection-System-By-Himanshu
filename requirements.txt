@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+dlib
+imutils
+flask
+tensorflow
+keras
+mediapipe
+scikit-learn
+matplotlib
