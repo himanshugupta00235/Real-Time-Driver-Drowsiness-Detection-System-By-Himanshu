@@ -85,6 +85,10 @@ This project is a **real-time driver drowsiness detection system** that uses **c
 ## 🔹 Screenshots
 <img width="230" height="146" alt="image" src="https://github.com/user-attachments/assets/c7ac65b7-5777-4959-a197-809b84a9a63b" />
 <img width="243" height="162" alt="image" src="https://github.com/user-attachments/assets/3fec691a-2169-4309-9c5d-e84f5b381262" />
+<img width="976" height="549" alt="Screenshot 2025-08-25 at 8 19 01 PM" src="https://github.com/user-attachments/assets/00a5c66b-e3f1-421b-af40-fc2afea2eb66" />
+<img width="979" height="555" alt="Screenshot 2025-08-25 at 8 18 42 PM" src="https://github.com/user-attachments/assets/64e2d4ae-b3ec-4f64-aa9a-064fe898496c" />
+
+
 
 
 
